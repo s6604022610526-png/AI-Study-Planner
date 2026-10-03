@@ -1,0 +1,8 @@
+{
+  "name": "AI Study Planner",
+  "description": "ระบบวางแผนการอ่านหนังสืออัจฉริยะด้วย Prompt Engineering พร้อม Before vs After, ตารางรายวัน และ Slide Presentation Summary",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
